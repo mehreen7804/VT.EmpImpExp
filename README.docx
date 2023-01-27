@@ -1,0 +1,21 @@
+# VT.EmpImpExpVT.EmpImpExp
+This is the project that is responsible for reading data from the excel file and saving it in data base using  API.
+Prerequisites
+•	Visual Studio 2022
+•	.NET Core 6
+•	Dapper
+Getting Started
+1.	Clone the repositoryps://github.com/YOUR-USERNAME/YOUR-REPOSITORY 
+2.	Open the project in Visual Studio 2022
+3.	Restore dependenciestnet restore 
+4.	Build the projectotnet build 
+5.	Run the project
+6.	Use Swagger to interact with and test the API endpoints. The Swagger UI should be available at http://localhost:<port>/swagger
+7.	Create a new data base and tables by running the scripts in the local sql data base.
+8.	Edit the appsettings.json file and enter the credentials for your data base. 
+Built With
+•	ASP.NET Core 6
+•	Dapper
+•	Repository pattern
+•	Swagger
+
